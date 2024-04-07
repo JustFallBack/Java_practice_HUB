@@ -1,5 +1,5 @@
 /* DoubleArray.java
- * 
+ * This class is used to create an array of double and do some operations on it.
  */
 
 public class DoubleArray {

@@ -1,6 +1,15 @@
-/* Index.java
- * This class handle phone numbers.
- */
+/*
+ * Index.java
+ * 
+ * This class manages phone numbers.
+ * 
+ * This Java class provides functionality to handle phone numbers. 
+ * It includes methods for adding subscribers with names and phone numbers, retrieving phone
+ * numbers by subscriber names, retrieving subscriber names by phone numbers, counting the 
+ * number of subscribers, and obtaining a sorted array of subscribers.
+ * 
+ * It uses the Subscriber class to represent subscribers.
+ */ 
 
 public class Index {
     private int maxSub;

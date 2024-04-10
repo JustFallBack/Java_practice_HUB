@@ -22,7 +22,8 @@ To compile the Java files in this repository, you will need to have the Java Dev
 4. After the installation is complete, open a terminal or command prompt and verify that Java is installed by running the following command:
 
     ```shell
-    java -version    ```
+    java -version 
+    ```
 
 ### Compile a Java project
 

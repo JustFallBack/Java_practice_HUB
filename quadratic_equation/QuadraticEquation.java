@@ -1,8 +1,9 @@
 /*
- * File: QuadraticEquation.java
- * Description: This program solves the quadratic equation ax^2 + bx + c = 0, 
+ * QuadraticEquation.java
+ * This program solves the quadratic equation ax^2 + bx + c = 0, 
  * where the coefficients a, b, and c are provided as arguments. 
- * Note: 's' is a String corresponding to an integer, and the call 'Integer.valueOf(s)' returns the associated integer value."
+ * Note: 's' is a String corresponding to an integer, and the call 'Integer.valueOf(s)' returns 
+ * the associated integer value."
  */
 
 

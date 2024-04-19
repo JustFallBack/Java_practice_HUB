@@ -1,7 +1,7 @@
 /*
- * File: Reverse.java
- * Description: This program displays the arguments of an application in reverse order and also reverses the characters of each argument.
- * Info: The length of a string s can be obtained using s.length() and the character at a specific index i can be retrieved using s.charAt(i).
+ * Reverse.java
+ * This program displays the arguments of an application in reverse 
+ * order and also reverses the characters of each argument.
  */
 
 public class Reverse {

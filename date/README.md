@@ -1,4 +1,4 @@
-## Date.java
+## Date class
 
 Explanation in the header of the `Date.java` file.
 

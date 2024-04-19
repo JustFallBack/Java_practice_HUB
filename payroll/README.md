@@ -1,6 +1,6 @@
 ## Payroll and Employee classes
 
-Explanation is in each header of each file.
+Each file contains an explanation in its header.
 
 ```shell
 javac *.java

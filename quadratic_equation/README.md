@@ -1,4 +1,4 @@
-## QuadraticEquation class
+## QuadraticEquation class
 
 Explanation is in the header of the `QuadraticEquation.java` file.
 

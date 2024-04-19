@@ -1,6 +1,7 @@
 /*
- * File: Date.java
- * Description: Given three integer arguments representing a date (day, month, year), this program displays the following day." 
+ * Date.java
+ * Description: Given three integer arguments representing a date (day, month, year), 
+ * this program displays the following day. 
  */
 
 public class Date {

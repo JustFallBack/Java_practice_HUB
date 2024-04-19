@@ -1,4 +1,4 @@
-## DoubleArray.java
+## DoubleArray class
 
 Explanation in the header of the `DoubleArray.java` file.
 

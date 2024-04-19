@@ -1,4 +1,4 @@
-## NaturalNumber.java
+## NaturalNumber class
 
 Explanation in the header of the `NaturalNumber.java` file.
 

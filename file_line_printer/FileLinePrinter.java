@@ -50,12 +50,7 @@ public class FileLinePrinter {
         try {
             if(args.length != 2) {
                 throw new IllegalArgumentException("Two arguments expected.");
-            } 
-        } catch (IllegalArgumentException e) {
-            System.out.println(e.getMessage() + "\nUsage : java CutLine <filename> <maxLength>");
-        }
-            
-        try {
+            }  
             String filename = args[0];
             int maxLength = Integer.parseInt(args[1]);
             if(maxLength <= 0) {
@@ -63,11 +58,13 @@ public class FileLinePrinter {
             }
             FileLinePrinter.readFile(filename, maxLength);
         
-
-        } catch (NumberFormatException e) {
+        } catch (IllegalArgumentException e) {
+            System.out.println(e.getMessage() + "\nUsage : java CutLine <filename> <maxLength>");
+        } catch (Exception e) {
             System.out.println(e.getMessage() + "\nUsage : java CutLine <filename> <maxLength>");
         }
 
     }
 }
    
+

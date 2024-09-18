@@ -1,6 +1,4 @@
-# Java_practice_HUB
-
-## Description
+# Java - Bachelor's degree practical work
 
 This repository contains small java script I did as training during my 2nd year of bachelor's degree at Avignon Université.<br>
 Every file is commented in english.<br>
